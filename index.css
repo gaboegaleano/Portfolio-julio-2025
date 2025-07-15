@@ -1,0 +1,52 @@
+.encabezado{
+    font-family: tahoma;
+    margin-top: 40px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(167, 167, 224);
+    color: white;
+    margin-left: 30PX;
+    margin-right: 30px;
+}
+
+.container{
+    margin-top: 30px;
+    display:flex;
+    justify-content: center;
+    gap: 20px;
+    text-align: justify;
+}
+
+.card{
+  box-shadow: 5px 5px 0px 0px rgb(5, 5, 5);  
+}
+
+.portfolio{
+    margin-top: 30px;
+}
+
+.footer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.container2{
+    margin-top: 30px;
+}
+
+p{
+        text-align: justify;
+}
+
+.logos{
+    display:flex;
+    justify-content: center;
+}
+
+.icono{
+    max-width: 70px;
+    border-radius: 5px;
+}
