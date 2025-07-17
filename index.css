@@ -50,3 +50,8 @@ p{
     max-width: 70px;
     border-radius: 5px;
 }
+
+button{
+    background-color: rgb(152, 200, 241);
+    border-radius: 5px;
+}
